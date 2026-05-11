@@ -22,3 +22,4 @@ The dashboard tracks key hospitality KPIs including revenue performance, occupan
 - Forecast accuracy exceeded 94%, improving visibility into revenue planning
 - Operational efficiency varied across hotel locations, highlighting opportunities for pricing and capacity optimization
 
+<img width="1885" height="1070" alt="image" src="https://github.com/user-attachments/assets/6db4aec1-3860-4bd6-8316-a6ac9ff7ba51" />
