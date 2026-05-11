@@ -1,4 +1,4 @@
-# Analytics-Portfolio
+# Power BI-Portfolio
 # Hotel Performance Dashboard | Power BI Analytics
 ## Project Overview
 
